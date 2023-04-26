@@ -6,6 +6,7 @@ LIST of courses:
  4) University of Toronto Machine Learning and Data Mining: https://www.cs.toronto.edu/~mren/teach/csc411_19s/
  5) University of Virginia Deep Learning: https://uvadlc-notebooks.readthedocs.io/en/latest/index.html
  6) Tübingen Machine Learning: https://www.youtube.com/playlist?list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD
+ 7) Fall 2017 STAT 946: Deep Learning: https://www.youtube.com/playlist?list=PLehuLRPyt1HxTolYUWeyyIoxDabDmaOSB
 
 
 

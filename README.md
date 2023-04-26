@@ -7,6 +7,7 @@ LIST of courses:
  5) University of Virginia Deep Learning: https://uvadlc-notebooks.readthedocs.io/en/latest/index.html
  6) Tübingen Machine Learning: https://www.youtube.com/playlist?list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD
  7) Fall 2017 STAT 946: Deep Learning: https://www.youtube.com/playlist?list=PLehuLRPyt1HxTolYUWeyyIoxDabDmaOSB
+ 8) Sebastian Raschka: https://sebastianraschka.com/blog/2021/dl-course.html
 
 
 

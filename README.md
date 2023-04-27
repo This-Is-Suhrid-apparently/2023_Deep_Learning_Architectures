@@ -26,4 +26,9 @@ TOPICS:
                               
  4) GANs - (UNDERSTANDING) https://www.youtube.com/watch?v=k2sFTUx5dX8&list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD&index=45, https://www.youtube.com/watch?v=CNWZgOM52-g&list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD&index=46, https://www.youtube.com/watch?v=CPLiIf8pU3M&list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD&index=47
            (CODE) https://www.cs.toronto.edu/~lczhang/360/lec/w09/gan.html, https://www.youtube.com/watch?v=OljTVUVzPpM&list=PLhhyoLH6IjfwIp8bZnzX8QR30TRcHO8Va&index=2
+           
+ 5) RNNs
+ 6) LSTMs
+ 7) Transformers
+ 8) Graph Neural Networks
 

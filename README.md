@@ -23,4 +23,7 @@ TOPICS:
 3) Variational Autoencoders - (UNDERSTANDING) https://www.youtube.com/watch?v=LzEywGCT7-A&list=PLp-0K3kfddPxQw7-vYNu4OG9vLu3qBw4t&index=23 (PART 1)
                                               https://www.youtube.com/watch?v=CREGwW63VMw&list=PLp-0K3kfddPxQw7-vYNu4OG9vLu3qBw4t&index=24 (PART 2)
                               (CODE)  https://www.youtube.com/watch?v=IQpP_cH8rrA , https://sebastianraschka.com/pdf/lecture-notes/stat453ss21/L17_vae__slides.pdf,  https://www.youtube.com/watch?v=YSTvAc8kjmU&list=PLLENHvsRRLjDHllrXj0B8sz5-4xVbisBL&index=10
+                              
+ 4) GANs - (UNDERSTANDING) https://www.youtube.com/watch?v=k2sFTUx5dX8&list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD&index=45, https://www.youtube.com/watch?v=CNWZgOM52-g&list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD&index=46, https://www.youtube.com/watch?v=CPLiIf8pU3M&list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD&index=47
+           (CODE) https://www.cs.toronto.edu/~lczhang/360/lec/w09/gan.html
 
